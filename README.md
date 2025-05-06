@@ -1,4 +1,4 @@
-# E-commerce REST API
+# E-commerce app
 
 A robust RESTful API for an e-commerce platform built with Flask and SQLAlchemy. This API provides endpoints for managing products and orders, making it suitable for building e-commerce applications.
 
